@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "791458747265",
+    "firebase_url": "https://hyunstargram-8b0c2.firebaseio.com",
+    "project_id": "hyunstargram-8b0c2",
+    "storage_bucket": "hyunstargram-8b0c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791458747265:android:e8bc3c43b5bb9547e48e80",
+        "android_client_info": {
+          "package_name": "com.hyunstargram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791458747265-5pk208luv8meptahacjlesmu2mbgivvd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hyunstargram",
+            "certificate_hash": "d17defcd880cc56a2c050694d20a3b6af5a30fb7"
+          }
+        },
+        {
+          "client_id": "791458747265-jfj3c238julq2rfeouj3cr1c75uh4no3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-3LrY4fwzMl3_tfG_2QP-0ycYfTmpI8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791458747265-jfj3c238julq2rfeouj3cr1c75uh4no3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
